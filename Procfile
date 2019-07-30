@@ -1,1 +1,1 @@
-web: gunicorn swubibproject.wsgi --log-file -
+web: gunicorn swubib.wsgi --log-file -
